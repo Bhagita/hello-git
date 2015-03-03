@@ -7,5 +7,7 @@ This readme shall be pulled via the command line, muhaha
 2. use 'git commit -m "commit message"' to commit the staged files
 3. use 'git push' to add the committed files to the github.com repository
 4. use 'git pull origin master' to collect the latest version of the repository.
-5. use 'git head' to check for changes between your changed (uncommitted) files & latest version.
-	a. First make a change
+5. use 'git diff' to check for changes between your changed (uncommitted) files & latest version.
+	a. First make a change. This will show up with 'git diff'.
+	b. Secondly add the files to staging area. This will show up with ' git diff HEAD'
+	c. Third commit the files. Now you cannot see changes anymore with 'git diff HEAD' since you are uptodate.
