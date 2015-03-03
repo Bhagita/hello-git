@@ -7,3 +7,4 @@ This readme shall be pulled via the command line, muhaha
 2. use 'git commit -m "commit message"' to commit the staged files
 3. use 'git push' to add the committed files to the github.com repository
 4. use 'git pull origin master' to collect the latest version of the repository.
+5. use 'git head' to check for changes between your committed files & latest version.
