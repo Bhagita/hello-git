@@ -1,0 +1,1 @@
+Hello world, this is a Git text test file :) Let's see how git works with this.
