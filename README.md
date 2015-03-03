@@ -8,3 +8,4 @@ This readme shall be pulled via the command line, muhaha
 3. use 'git push' to add the committed files to the github.com repository
 4. use 'git pull origin master' to collect the latest version of the repository.
 5. use 'git head' to check for changes between your changed (uncommitted) files & latest version.
+	a. First make a change
