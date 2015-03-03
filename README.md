@@ -11,3 +11,4 @@ This readme shall be pulled via the command line, muhaha
 	a. First make a change. This will show up with 'git diff'.
 	b. Secondly add the files to staging area. This will show up with ' git diff HEAD'
 	c. Third commit the files. Now you cannot see changes anymore with 'git diff HEAD' since you are uptodate.
+	d. use 'git diff --staged' to see your latest staged diff.
