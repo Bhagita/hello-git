@@ -15,3 +15,10 @@ This readme shall be pulled via the command line, muhaha
 6. use 'git reset *.*' to unstage files
 7. undo all changes and revert back to latest commit with 'git checkout -- file.txt'
 8. create a new branch with 'git branch branch_name'
+9. use 'git checkout branch_name' to switch to the newly created branch.
+10. use 'git rm "file.txt"' to remove a file, this automatically gets staged.
+11. use 'git commit -m "message"' to commit to the branch_name
+12. switch back to master branch with 'git checkout master'
+13. use 'git merge branch_name' to merge master & branch_name
+14. cleanup created branch with git branch -d branch_name
+15. don't forget to push all the changes with 'git push' 
